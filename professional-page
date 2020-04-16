@@ -1,0 +1,52 @@
+
+<!DOCTYPE HTML>         
+<html>                  
+<head>                  
+<title>Dominic Fekete's Professional Page</title> 
+<link rel="stylesheet" type="text/css" href="style.css">   
+</head> 
+
+<body>   
+    <div id = "top">
+        <h1> Dominic Fekete </h1>
+        <h3>Artist, Aspiring Game Designer</h3>
+    </div>  
+
+    <div class="dropdown">
+        <button class="dropbtn">Navigate</button>
+        <div class="dropdown-content">
+        <a href="#about">About</a>
+        <a href="#video">Video</a>
+        <a href="#contact">Contact</a>
+        </div>
+      </div>
+    
+      <!-- about -->
+    <div id="bio">
+        <p>
+            <a name="about"></a>
+            <h2>ABOUT</h2>
+            Dominic Fekete is a sophomore at the University of North Carolina at Chapel Hill.  He is currently studying to be a Communiciations: New Media major and seeks to become a game designer.
+        </p>
+    </div>
+    
+    <!-- image -->
+    <div>
+        <img src = "https://domantonietticomedy.files.wordpress.com/2019/11/screen-shot-2019-11-04-at-8.15.17-pm.jpg?w=698">
+    </div>
+
+    <!-- contact section -->
+    <div id="bio">
+        <p>
+            <a name="contact"></a>
+            <h2>CONTACT</h2>
+            Dominic Fekete can be reached at:      
+        </p>
+        <p id="sub">
+            dvfekete@live.unc.edu
+        </p>
+    </div>  
+
+
+</body>             
+</html>  
